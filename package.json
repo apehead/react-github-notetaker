@@ -1,0 +1,50 @@
+{
+  "name": "react-github-notetaker",
+  "version": "1.0.0",
+  "description": "A simple github notetaker made with react and fireabase",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "author": "Alexander Curiel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apehead/react-github-notetaker.git"
+  },
+  "homepage": "https://github.com/apehead/react-github-notetaker",
+  "bugs": {
+    "url": "https://github.com/apehead/react-github-notetaker/issues"
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "firebase",
+    "re-base",
+    "webpack"
+  ],
+  "dependencies": {
+    "axios": "^0.13.1",
+    "re-base": "^2.0.0",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0",
+    "react-router": "^2.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "eslint": "^3.2.2",
+    "eslint-config-airbnb": "^10.0.0",
+    "eslint-import-resolver-webpack": "^0.4.0",
+    "eslint-plugin-import": "^1.12.0",
+    "eslint-plugin-jsx-a11y": "^2.0.1",
+    "eslint-plugin-react": "^6.0.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}

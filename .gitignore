@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+bower_components
+
+# dist
+public/bundle.js
+
+# misc
+.DS_Store
+*.log
+.DS_Store
+/.idea/
+.sass-cache
