@@ -1,7 +1,7 @@
 {
   "name": "react-github-notetaker",
   "version": "1.0.0",
-  "description": "A simple github notetaker made with react and fireabase",
+  "description": "A simple GitHub notetaker made with React and Fireabase",
   "engines": {
     "node": ">=4.0.0"
   },
