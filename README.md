@@ -1,3 +1,3 @@
 # React GitHub Notetaker
 
-React GitHub notetaker example.
+A simple GitHub notetaker example made with React and Fireabase.
